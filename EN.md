@@ -37,3 +37,16 @@ Time series analysis and signal processing, machine learning (including deep neu
 |2022 - 2023| Head in the grant "Research of methods for automatic visual assessment of the content of asbestos fibers in blocks of rocks of asbestos quarries in the Sverdlovsk region (using the example of the UralAsbest quarry)" with the support of the Russian Science Foundation (RNF). (joint grant of the Russian Science Foundation and the Government of the Sverdlovsk Region No. 22-21-20051, https://www.rscf.ru/project/22-21-20051  ). |
 |2013 - 2021| Engeneer in a number of works on the subject of "ultrasonic clampon flowmeters with complex modulated signals", including work on the development of flowmeters for liquids and gases in pipelines, ultrasonic anemometers and foaming sensors in pipelines.|
 
+
+# **Other activity:**
+
+* In 2023-2024, responsible for work under the "Agreement on the provision of grants from the federal budget in the form of subsidies for the development of bachelor's and master's degree programs in the field of artificial intelligence, as well as for advanced training of teaching staff of educational institutions of higher education in the field of artificial intelligence" No. 075-15-2021-1025 28.09.2021.
+* Member of the Program Committees of the International Conference of the Ural-Siberian Conference on Biomedical Engineering, Radio Electronics and Information Technologies (USBEREIT) 2021-2025. (Yekaterinburg, May 13-14, 2021, September 21, 2022, May 15-17, 2023, May 13-15, 2024, May 12-14, 2025),
+* Member of the organizing committees of the International Young Professionals Involvement (YPI) competitions within the framework of International conferences – 2021, 2022.
+* Member of the Program Committee of the IEEE Ural-Siberian Conference on Computational Technologies in Cognitive Science, Genomics and Biomedicine (CSGB) International Conference 2023 (Novosibirsk, Yekaterinburg, online, September 28-30, 2023).
+* Winner of the Competition for grants to teachers of the Master's Degree program 2020/2021 of the Vladimir Potanin Scholarship Program, with an application for the development online course "Computer Vision" (2021/2022).
+* Winner of the START-1 competition on the development of an ultrasonic cluster flowmeter" 2015-2016
+* Supervision of 4 post-graduate students in the field 2.3.1 "System analysis, management, information processing and statistics".
+* Opposition in the defense of the candidate's thesis "Improving the accuracy and performance of algorithms for analyzing and processing complex images" Dmitriev N.V. specialty 2.3.1 UrFU Dissertation Council https://dissovet2.urfu.ru/mod/data/view.php?d=12&rid=6630 2024
+* Supervisor of more than 40 master's theses on artificial intelligence topics.
+
