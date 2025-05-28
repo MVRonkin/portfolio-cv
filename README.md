@@ -181,8 +181,8 @@
 | :- | :- |
 |**Google Scholar**|<https://scholar.google.com/citations?view_op=list_works&hl=en&user=5h7_Jx8AAAA> |
 |**Researchgate**|https://www.researchgate.net/profile/Mikhail-Ronkin|
-|**SCOUPUS ID**|55975652200|
-|**ORCID**|0000-0001-5522-988X|
+|**SCOUPUS ID**|[55975652200](https://www.scopus.com/authid/detail.uri?authorId=55975652200)
+|**ORCID**|[0000-0001-5522-988X](https://orcid.org/0000-0001-5522-988X)|
 |**WOS**|[X-3672-2018](https://publons.com/researcher/X-3672-2018/ "Copy and share this profile's URL")|
 |**УрФУ**|<https://sciencedata.urfu.ru/portal/ru/persons/--(9f605ba0-4452-45e3-90d8-e20bbc574bdb).html> |
 |**Elibrary**|**619160 (<https://www.elibrary.ru/author_items.asp?authorid=619160&pubrole=100&show_refs=1&show_option=0>** (https://www.elibrary.ru/author\_profile.asp?authorid=619160**)**|
