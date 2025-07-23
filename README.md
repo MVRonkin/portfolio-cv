@@ -111,6 +111,9 @@
 1. Устройство бесконтактного ультразвукового многоплоскостного расходомера. Полезная модель № 154465, 2015. **Ронкин М.В.**, Калмыков А.А.. [*https://patents.s3.yandex.net/RU2612749C1_20170313.pdf*](https://patents.s3.yandex.net/RU2612749C1_20170313.pdf)
 
 ## **Материалы конференций:**
+1. Kariakin M. et al. Automated Classification of Prematurity Retinopathy Using ViT, ResNet, and EfficientNet //2025 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT). – IEEE, 2025. – С. 65-68.
+2. Efimov A., Reshetnikov K., **Ronkin M.** Create a Synthetic Benchmark for Rock Fragmentation Tasks //2025 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT). – IEEE, 2025. – С. 81-84.
+3. Zabegaev N., **Ronkin M.** EfficientNet-b7 and Mit-b5 Encoder on the Example of Segmentation of Asbestos Veins in Rocks //2025 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT). – IEEE, 2025. – С. 25-28.
 1. Albasu, F. B., Kulyabin, M., Zhdanov, A., Dolganov, A., Borisov, V., **Ronkin, M.** ERG Classification by Using ML Methods Based on Short-Time Fourier Transform //2024 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT). – IEEE, 2024. – С. 318-321.
 1. Reshetnikov K., **Ronkin M.** Efficient Rock Fragmentation Estimation on Conveyor Belts Using YOLOv8-Based Oriented Bounding Box Method //2024 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT). – IEEE, 2024. – С. 280-283.
 1. **Ronkin, M.V.**, Zeyde, K.M., & Kalmykov, A.A. Electrodynamics simulation of FMCW signal for the contact-less reinforced concrete testing. In AIP Conference Proceedings.  Vol. 2849, No. 1. 2023.
@@ -149,6 +152,7 @@
 - 3 кейса, выполненных в 2024 совместно с лабораторией ИИ Сбера попали кейс-бук Альянса в сфере «Искусственный интеллект» «Искусственный интеллект для устойчивого развития» <https://ai-russia.ru/docs/AI_Alliance_ESG_Casebook.pdf>  (34, 50 и 96 стр).
 
 ## **Учебные пособия:**
+- Ронкин М. В. Глубокое обучение систем компьютерного зрения : учебное пособие / М. В. Ронкин, А. Ю. Долганов ; научный редактор А. А. Калмыков :. – URL: < https://elar.urfu.ru/handle/10995/143721>
 - Ронкин М.В. Он-лайн курс «Компьютерное зрение» (24 лекции и 10 практик) Ронкин М. Компьютерное зрение: направление подгот. 09.00.00 «Информатика и вычисл. техника»: онлайн-курс // Уральский федеральный университет. Проект «Открытое образование». – Екатеринбург, 1 января 2023. – Объем курса 3 зачет. единицы (16 недель, 4,5 часов в неделю). – URL: <https://courses.openedu.urfu.ru/course-v1:UrFU+COMPVISION+original>. 
 - Базовые алгоритмы машинного обучения на языке Python : учебно-методическое пособие / А.Ю. Долганов, М.В. Ронкин, А.В. Созыкин ; М-во науки и высшего образования РФ.— Екатеринбург : Изд-во Урал. ун-та, 2023.— 124 с. <https://elar.urfu.ru/handle/10995/122740> 
 - Долганов А.Ю. Ронкин М.В., Созыкин А.В. Онлайн курс «Основы анализа данных и машинного обучения. <https://courses.openedu.urfu.ru/course-v1:urfu+FDAML+fall_2021>»
